@@ -1,6 +1,5 @@
 package ua.hillel.java;
 
-import java.sql.Array;
 import java.util.Arrays;
 
 public class FruitArray {
